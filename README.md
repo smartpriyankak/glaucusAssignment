@@ -33,3 +33,5 @@ POST
 http://localhost:8080/connectPersons
 Request Body:
 [{"fullName" : "PK","email" : "test@gmail.com","phoneNumber":"9876543211"},{"fullName" : "MK","email" : "test2@gmail.com","phoneNumber":"9876543211"}]
+
+Note: No Exceptional Handling and Validations done in this Demo POC
